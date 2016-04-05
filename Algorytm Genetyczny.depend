@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1421159502 source:c:\users\patryk\desktop\optymalizacja kombinatoryczna\algorytm genetyczny\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<cstdlib>
+	<time.h>
+	<string.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+

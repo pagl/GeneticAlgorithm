@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1418234409 source:g:\optymalizacja kombinatoryczna\generator\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<cstdlib>
+	<time.h>
+	<string.h>
+	<iostream>
+
+1421011690 source:c:\users\patryk\desktop\optymalizacja kombinatoryczna\generator\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<cstdlib>
+	<time.h>
+	<string.h>
+	<iostream>
+
